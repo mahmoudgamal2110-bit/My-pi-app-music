@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pi Network Music</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin: 50px; }
+    nav a { margin: 0 15px; text-decoration: none; color: #0070f3; }
+    nav a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>🎵 Pi Network Music 🎵</h1>
+  <p>Discover and enjoy unlimited music worldwide.</p>
+  <nav>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/terms.html">Terms of Service</a>
+  </nav>
+</body>
+</html>
